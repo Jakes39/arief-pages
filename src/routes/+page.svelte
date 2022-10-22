@@ -1,2 +1,3 @@
-<h1>Welcome to MyPage dasdasdasd</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to this funny page</h1>
+<a href="/test1">Test page 1</a>
+<a href="/test2">Test page 2</a>
